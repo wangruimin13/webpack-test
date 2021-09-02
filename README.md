@@ -1,4 +1,4 @@
-# 关于webpack的一些笔记（非常咸鱼）
+# 关于webpack的一些笔记
 1. webpack4到webpack5配置的变化
 + devServer
 * webpack-dev-server v4.0.0+ 要求 node >= v12.13.0、webpack >= v4.37.0（但是我们推荐使用 webpack >= v5.0.0）和 webpack-cli >= v4.7.0
